@@ -1,0 +1,5 @@
+{
+  "name": "Library Management System",
+  "description": "A persistent library management system demonstrating Insert and Delete operations on a Library entity.",
+  "requestFramePermissions": []
+}
